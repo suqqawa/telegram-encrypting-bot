@@ -8,6 +8,7 @@
 - BINARY ENCRYPTION
 - FERNET ENCRYPTION
 # What fitures does it have?:
+- CAN ENCRYPT AND DECRYPT ALMOST EVERY LANGUAGE 
 - Encryption of mesages
 - Decryption of messages
 - could be added into channels/group chat
